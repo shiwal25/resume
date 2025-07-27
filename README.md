@@ -1,2 +1,3 @@
 # resume
-<img width="731" height="941" alt="image" src="https://github.com/user-attachments/assets/ca640c2a-0725-4f45-9a4e-ea72b6f70870" />
+<img width="724" height="931" alt="image" src="https://github.com/user-attachments/assets/5eb1bb3a-a9ac-446f-8547-7b2c9119734c" />
+
